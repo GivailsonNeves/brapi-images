@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { BrapiImagesModule } from './public_api';
+export { BrapiConfig as ɵc } from './src/app/brapi-images/models';
+export { ProductImagePipe as ɵa } from './src/app/brapi-images/product-image.pipe';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYnJhcGktaW1hZ2VzLmpzIiwic291cmNlUm9vdCI6Im5nOi8vYnJhcGktaW1hZ2VzLyIsInNvdXJjZXMiOlsiYnJhcGktaW1hZ2VzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSxrQ0FBYyxjQUFjLENBQUM7QUFFN0IsT0FBTyxFQUFDLFdBQVcsSUFBSSxFQUFFLEVBQW9CLE1BQU0sK0JBQStCLENBQUM7QUFDbkYsT0FBTyxFQUFDLGdCQUFnQixJQUFJLEVBQUUsRUFBQyxNQUFNLDJDQUEyQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL3B1YmxpY19hcGknO1xuXG5leHBvcnQge0JyYXBpQ29uZmlnIGFzIMm1YyxfQnJhcGlDb25maWcgYXMgybVifSBmcm9tICcuL3NyYy9hcHAvYnJhcGktaW1hZ2VzL21vZGVscyc7XG5leHBvcnQge1Byb2R1Y3RJbWFnZVBpcGUgYXMgybVhfSBmcm9tICcuL3NyYy9hcHAvYnJhcGktaW1hZ2VzL3Byb2R1Y3QtaW1hZ2UucGlwZSc7Il19

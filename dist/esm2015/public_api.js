@@ -1,0 +1,6 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+export { BrapiImagesModule } from './src/app/brapi-images/brapi-images.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2JyYXBpLWltYWdlcy8iLCJzb3VyY2VzIjpbInB1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7OztBQUFBLE9BQU8sRUFBRSxpQkFBaUIsRUFBRSxNQUFNLDRDQUE0QyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgQnJhcGlJbWFnZXNNb2R1bGUgfSBmcm9tICcuL3NyYy9hcHAvYnJhcGktaW1hZ2VzL2JyYXBpLWltYWdlcy5tb2R1bGUnOyJdfQ==
